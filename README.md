@@ -4,6 +4,9 @@
 - Modpack Version: V1.2.0 (Feb 20, 2026)
 - TUFM Mod Version: 0.0.2.1 (Feb 20, 2026)
 
+# Changelog
+All changes are saved under `changelog.md`
+
 # Start Guide
 
 1. Install **Forge 47.4.10** for Minecraft 1.20.1 at the link:
