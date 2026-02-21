@@ -6,5 +6,5 @@
 ### TUFM Mod v0.0.2.1
 - Added **TUFM Mod v0.0.2.1** to the modpack.
 
-## GitHub
+### GitHub
 - Initialized repository for change tracking.
